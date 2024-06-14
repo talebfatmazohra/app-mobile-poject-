@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "Echec de connexion Veuillez verifier le mot de passe ou le nom d'utilisateur", Toast.LENGTH_SHORT).show();
             }
         }
-        ;
+
     })
 ;}
     public void launchSecondActivity(View view) {
